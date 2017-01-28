@@ -1,8 +1,8 @@
 {
   "name": "starlabs/vagr",
   "description": "Vagrant LAMP small server",
-  "minimum-stability": "dev",
   "license": "MIT",
+  "type": "library",
   "authors": [
     {
       "name": "Nathan Stark",
