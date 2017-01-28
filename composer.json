@@ -9,6 +9,10 @@
       "email": "stark@starlabs.su"
     }
   ],
+  "require": {
+    "composer/installers": "~1",
+    "oomphinc/composer-installers-extender": "^1.1"
+  },
   "repositories": [
     {
       "type": "git",
