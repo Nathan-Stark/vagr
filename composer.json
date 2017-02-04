@@ -1,18 +1,15 @@
 {
   "name": "starlabs/vagr",
-  "description": "Vagrant LAMP small server",
+  "description": "Virtual development environment for 1c-Bitrix",
   "license": "MIT",
   "type": "library",
   "authors": [
     {
       "name": "Nathan Stark",
-      "email": "stark@starlabs.su"
+      "email": "git@starlabs.su"
     }
   ],
-  "require": {
-    "composer/installers": "~1",
-    "oomphinc/composer-installers-extender": "^1.1"
-  },
+  "require": {},
   "repositories": [
     {
       "type": "git",

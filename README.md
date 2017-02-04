@@ -1,2 +1,3 @@
 # vagr
-vagrant lamp small server
+
+Простая, виртуальная среда разработки для bitrix проектов.
